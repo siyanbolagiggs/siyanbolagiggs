@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siyanbolagiggs
-- 👀 I’m interested in web development and google earth engine(GEE)
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on javascript related projects
+- 👀 I’m interested in web development and GIS applications
+- 🌱 I’m currently learning fullstack development
+- 💞️ I’m looking to collaborate on fullstack, UI/UX and javascript related projects
 - 📫 How to reach me siyanbolagiggs@gmail.com
 
 <!---
