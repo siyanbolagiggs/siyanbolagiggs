@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siyanbolagiggs
-- 👀 I’m interested in web development and GIS applications
+- 👀 I’m interested in game and web development and GIS applications
 - 🌱 I’m currently learning fullstack development
-- 💞️ I’m looking to collaborate on fullstack, UI/UX and javascript related projects
+- 💞️ I’m looking to collaborate on game dev, fullstack, UI/UX and javascript related projects
 - 📫 How to reach me siyanbolagiggs@gmail.com
 
 <!---
